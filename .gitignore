@@ -17,7 +17,7 @@ node_modules/
 .env.production.local
 
 # Environment variables
-.env
+#.env
 
 # Logs
 npm-debug.log*
